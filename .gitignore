@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+
+# Папка IDE
+.idea/
+
+# Системные файлы macOS
+.DS_Store
+
+# Файл с переменными окружения (секреты)
+.env
+
+data/
+
+# Файлы кэша и баз данных
+.langchain_cache.db
+chroma_db/
+docstore/
+__pycache__/
