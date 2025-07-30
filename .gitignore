@@ -15,5 +15,5 @@ data/
 # Файлы кэша и баз данных
 .langchain_cache.db
 chroma_db/
-docstore/
+docstore.db
 __pycache__/
